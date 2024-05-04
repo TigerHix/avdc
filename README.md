@@ -4,4 +4,8 @@
 
 ## Setup
 
-Download the [dataset](https://drive.google.com/drive/folders/1XE4gfY07beweOt6k6DqU5ErVRVNWKt0D?usp=sharing) and put it into the `./dataset` folder. Please view the Jupyter Notebook for details.
+Download the [dataset](https://drive.google.com/drive/folders/1XE4gfY07beweOt6k6DqU5ErVRVNWKt0D?usp=sharing) and put it into a folder named `dataset`. Please view the Jupyter Notebook for details.
+
+## Unity components
+
+The `unity` folder contains playground C#/Unity scripts for [Warudo](https://warudo.app/), a 3D avatar animation software. Data annotators installed the `MMDDataFilterer.cs` to synchronize camera movements with audio and character movements as well as filtering out incomplete/invalid camera animation files.
